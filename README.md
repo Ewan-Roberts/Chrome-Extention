@@ -18,6 +18,6 @@ click on him and find the place you saved this file
 
 Double click the folder 
 
-Go into the HTML and change it you your name " all dev and no play make NAME a dull boy"
+Go into the HTML and change it to your name " all dev and no play make NAME a dull boy"
 
 **thumbs up**
